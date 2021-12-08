@@ -307,6 +307,8 @@ body {
     }
 }
 
+/* ---------------galery------------------ */
+
 .gallery {
     padding-top: 200px;
     background-color: #181818;
@@ -357,6 +359,8 @@ body {
         margin: 0;
     }
 }
+
+/* -----------------footer------------------ */
 
 .footer {
     padding: 107px 0 107px 0;
